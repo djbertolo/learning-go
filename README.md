@@ -10,4 +10,5 @@ If you would like to see other ways I've been putting my Go skills to the test, 
 |[Bank Account Simulator](https://github.com/djbertolo/learning-go/tree/main/bank-account-simulator)|Methods with pointer receivers, Error handling, Struct Fields|
 |[Geometry Calculator](https://github.com/djbertolo/learning-go/tree/main/geometry-calculator)|Interfaces, Polymorphism, Structs and methods|
 |[Configuration File Parser](https://github.com/djbertolo/learning-go/tree/main/configuration-file-parser)|File I/O, Error handling, String manipulation, Slices & Maps|
-|[Concurrent Status Checker](https://github.com/djbertolo/learning-go/tree/main/concurrent-status-checker)|Goroutines, Channnels, Concurrency patterns, Making HTTP requests|
+|[Concurrent Status Checker](https://github.com/djbertolo/learning-go/tree/main/concurrent-status-checker)|Goroutines, Channels, Concurrency patterns, Making HTTP requests|
+|[Concurrent Director Walker](https://github.com/djbertolo/learning-go/tree/main/concurrent-directory-walker)|Concurrency patterns, File system, File I/O, Cryptography and hashing, Synchronization, Channels|
