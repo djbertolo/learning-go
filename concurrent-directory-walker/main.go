@@ -38,7 +38,11 @@ func main() {
 	var mu sync.Mutex
 	fileHashes := make(map[string]string)
 
-	go getFiles("/Users/djbertolo/Projects/learning-go", pathsCh)
+	var input string
+	fmt.Println("Enter the path of the directory you wish to walk:")
+	fmt.Scan(&input)
+
+	go getFiles(input, pathsCh)
 
 	workerCount := 5
 
