@@ -1,4 +1,4 @@
-This is a repository of various Go-related exercises for me to accomplish in order to expand on and apply skills and concepts learned from Jon Bodner's [Learning Go: An Idiomatic Approach to Real-World Go Programming](https://www.oreilly.com/library/view/learning-go/9781492077206/k). Below you can find a table of the exercises with the corresponding concepts they aim to cover/demonstrate understanding in.
+This is a repository of various Go-related exercises for me to accomplish in order to expand on and apply skills and concepts learned from Jon Bodner's "Learning Go: An Idiomatic Approach to Real-World Go Programming". Below you can find a table of the exercises with the corresponding concepts they aim to cover/demonstrate understanding in.
 
 If you would like to see other ways I've been putting my Go skills to the test, check out my [research project](https://github.com/djbertolo/aws-go-lambda-security-research) that is covering the vulnerabilities of AWS Lambda functions written in Go (Currently WIP).
 
